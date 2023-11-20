@@ -3,5 +3,4 @@ Lysozome	  Human	        LYSC_HUMAN P61626
 Hemoglobin-alpha  Human		HBA_HUMAN  P69905
 Hemoglobin-beta   Human		HBB_HUMAN  P68871
 PFKM		  Human		PFKAM_HUMAN P08237
-Pfkm 		  Mouse		PFKAM_MOUSE p4785
-THIS IS WRONG!7
+Pfkm 		  Mouse		PFKAM_MOUSE p47857
